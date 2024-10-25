@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi, I am full professor for “Methods of Complex Avionics Systems” at the [Institute of Aircraft Systems](https://www.ils.uni-stuttgart.de/en/) of the [University of Stuttgart](https://www.uni-stuttgart.de/en/). My research and teaching interests are
+
+- Avionics platforms, e.g. IMA
+- Hardware, software and middleware
+- Model-based engineering and tools
+- Self-adaptive avionics methods 
+- Safety and cyber-security
+
+This is our groups github: https://github.com/ils-stuttgart
 
 <!--
 **annighoefer/annighoefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
